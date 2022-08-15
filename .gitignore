@@ -109,5 +109,10 @@ bin
 bin-int
 Makefile
 
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.vs
+
 
 # End of https://www.toptal.com/developers/gitignore/api/c++,visualstudiocode,c,premake-gmake
